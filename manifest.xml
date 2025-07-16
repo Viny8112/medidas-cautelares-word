@@ -17,7 +17,7 @@
   <HighResolutionIconUrl DefaultValue="https://via.placeholder.com/64x64/0078d4/ffffff?text=MC"/>
   <SupportUrl DefaultValue="https://www.contoso.com" />
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://viny8112.github.io</AppDomain>
   </AppDomains>
 
   <!-- End Basic Settings. -->
@@ -27,7 +27,7 @@
     <Host Name="Document" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="“C:\Users\m315990\Downloads\manifest.xml” " />
+    <SourceLocation DefaultValue="https://viny8112.github.io/medidas-cautelares-word/medidas-cautelares.html" />
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <!-- End TaskPane Mode integration. -->
@@ -82,8 +82,8 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
-        <bt:Url id="Commands.Url" DefaultValue="“C:\Users\m315990\Downloads\manifest.xml” " />
-        <bt:Url id="Taskpane.Url" DefaultValue="“C:\Users\m315990\Downloads\manifest.xml” " />
+        <bt:Url id="Commands.Url" DefaultValue="https://viny8112.github.io/medidas-cautelares-word/medidas-cautelares.html" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://viny8112.github.io/medidas-cautelares-word/medidas-cautelares.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Medidas Cautelares!" />
